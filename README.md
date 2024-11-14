@@ -131,7 +131,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Uploading Screenshot 2024-11-14 172118.png…]()
+
+![Screenshot 2024-11-14 172118](https://github.com/user-attachments/assets/d4cccee3-b877-4fae-9348-75a4c422b7cf)
 
 
 ## RESULT
